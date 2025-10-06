@@ -1,4 +1,4 @@
-﻿# Mesen SB2K/BBK 专用模拟器
+﻿# Mesen SB2K/BBK 专用模拟器 1.0.0
 
 ## 简介
 
@@ -29,3 +29,4 @@ Mesen 是一个高精度的 NES/Famicom 模拟器，支持多种平台。此版�
 此项目是 Mesen2 的二次开发版本，重新设定了新的版本号。如果想获取原始版本请访问：https://github.com/SourMesen/Mesen2
 
 此项目采用 MIT 许可证，详细信息请参阅 LICENSE 文件。
+
